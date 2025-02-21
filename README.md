@@ -18,7 +18,7 @@ This is a **Movie & TV website** developed as a **college project**, utilizing a
 
 ## 📷 Screenshots  
 
-<img src="./images/home.jpg" alt="Home" width="500">  
+<img src="./images/home.jpg" alt="Home" width="700">  
 
 <img src="./images/movies-light.jpg" alt="Movies Page Light" width="700">  
 
