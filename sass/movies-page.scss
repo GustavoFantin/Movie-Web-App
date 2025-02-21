@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    margin: 40px 0 60px;
+    font-family: "Anonymous Pro", monospace;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    border-bottom: 3px solid #462859c4;
+    text-align: center;
+    width: 100%;
+}
+
+// talvez nao precise do h1
+
+
+
+
+
+.container-movies{
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+@media (min-width: 720px) {
+    .container-movies {
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: auto;
+        gap: 16px;
+    }
+
+    
+    
+    
+}
+
+// for dark mode
+
+
+
