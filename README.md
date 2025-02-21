@@ -15,8 +15,13 @@ This is a **Movie & TV website** developed as a **college project**, utilizing a
 - **HTML & CSS**  
 - **API TheMOVIEDB**  
 
+
 ## 📷 Screenshots  
-![Home](./images/home.jpg)  
-![Movies Page Light](./images/movies-light.jpg)  
-![Movies Page Dark](./images/movies-dark.jpg)  
-![Search Bar Working](./images/search.jpg)
+
+<img src="./images/home.jpg" alt="Home" width="500">  
+
+<img src="./images/movies-light.jpg" alt="Movies Page Light" width="500">  
+
+<img src="./images/movies-dark.jpg" alt="Movies Page Dark" width="500">  
+
+<img src="./images/search.jpg" alt="Search Bar Working" width="500">  
